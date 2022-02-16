@@ -1,10 +1,12 @@
-const winston = require('winston');
-const { format, createLogger } = winston;
+const { format, createLogger, transports } = require('winston');;
 const { combine, json, label, timestamp, printf } = format;
+
+// Import mongodb
+require('winston-mongodb');
 
 const logConfiguration = {
   'transports': [
-    new winston.transports.Console({
+    new transports.Console({
       level: 'error' | 'warn',
       format: combine(
         // label({
@@ -17,7 +19,7 @@ const logConfiguration = {
         json()
       )
     }),
-    new winston.transports.File({
+    new transports.File({
       filename: 'logs/server.log',
       format: combine(
         // label({
@@ -28,6 +30,19 @@ const logConfiguration = {
         }),
         printf(info => `${info.level}: ${info.label}: ${info.timestamp}: ${info.message}`),
         json()
+      )
+    }),
+    new transports.MongoDB({
+      level: 'error' | 'warn',
+      db: 'mongodb://localhost:27017/dev_class_backend',
+      options: {
+        useUnifiedTopology: true
+      },
+      collection: 'event_logger',
+      format: format.combine(
+        format.timestamp(),
+        // convert logs to a json format
+        format.json()
       )
     })
   ]
