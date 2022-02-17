@@ -18,3 +18,201 @@
 {"level":"info","message":"Server Sent a Hello World","timestamp":"2022-Feb-16 09:59:13"}
 {"level":"error","message":"400 || Not Found - /hello - GET - ::1","timestamp":"2022-Feb-16 09:59:49"}
 {"level":"error","message":"500 - Internal Server Error - y is not defined - /calc - GET - ::1","timestamp":"2022-Feb-16 09:59:59"}
+{"level":"info","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 09:47:21"}
+{"level":"info","message":"Server Sent a Hello World","timestamp":"2022-Feb-17 09:49:05"}
+{"level":"error","message":"500 - Internal Server Error - y is not defined - /calc - GET - ::1","timestamp":"2022-Feb-17 09:49:08"}
+{"level":"error","message":"400 || Not Found - /hello - GET - ::1","timestamp":"2022-Feb-17 09:51:03"}
+{"level":"info","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 09:51:11"}
+{"level":"error","message":"400 || Not Found - /hello - GET - ::1","timestamp":"2022-Feb-17 09:51:14"}
+{"level":"error","timestamp":"2022-Feb-17 09:51:14"}
+{"level":"info","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 10:03:29"}
+{"level":"error","message":"400 || Not Found - /hello - GET - ::1","timestamp":"2022-Feb-17 10:03:33"}
+{"level":"info","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 10:05:29"}
+{"level":"error","message":"400 || Not Found - /hello - GET - ::1","timestamp":"2022-Feb-17 10:05:36"}
+{"level":"error","message":"error 400 || Not Found","timestamp":"2022-Feb-17 10:05:36"}
+{"level":"info","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 10:06:21"}
+{"level":"error","message":"400 || Not Found - /hello - GET - ::1","timestamp":"2022-Feb-17 10:06:24"}
+{"level":"error","message":"error [object Object]","timestamp":"2022-Feb-17 10:06:24"}
+{"level":"info","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 10:07:06"}
+{"level":"error","message":"400 || Not Found - /hello - GET - ::1","timestamp":"2022-Feb-17 10:07:10"}
+{"level":"error","message":" {\"userId\":10,\"name\":20}","timestamp":"2022-Feb-17 10:07:10"}
+{"level":"info","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 10:07:49"}
+{"level":"error","message":"400 || Not Found - /hello - GET - ::1","timestamp":"2022-Feb-17 10:07:51"}
+{"level":"error","message":"{\"userId\":10,\"name\":20}","timestamp":"2022-Feb-17 10:07:51"}
+{"level":"error","message":"400 || Not Found - /hello - GET - ::1","timestamp":"2022-Feb-17 10:08:48"}
+{"level":"error","message":"{\"userId\":10,\"name\":20}","timestamp":"2022-Feb-17 10:08:48"}
+{"level":"info","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 10:09:30"}
+{"level":"error","message":"{\"userId\":10,\"name\":20}","timestamp":"2022-Feb-17 10:09:43"}
+{"level":"info","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 10:20:02"}
+{"level":"error","message":"{\"userId\":10,\"name\":20}","timestamp":"2022-Feb-17 10:20:49"}
+{"level":"info","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 10:21:33"}
+{"level":"error","message":"{\"userId\":10,\"name\":20}","timestamp":"2022-Feb-17 10:21:40"}
+{"level":"info","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 10:21:59"}
+{"level":"error","message":"{\"userId\":10,\"name\":20}","timestamp":"2022-Feb-17 10:22:01"}
+{"level":"info","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 10:25:49"}
+{"level":"error","message":"{\"userId\":10,\"name\":20}","timestamp":"2022-Feb-17 10:25:56"}
+{"level":"info","message":"Server Sent a Hello World","timestamp":"2022-Feb-17 12:17:36"}
+{"level":"info","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 14:37:54"}
+{"level":"info","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 14:39:55"}
+{"level":"info","message":"Server Sent a Hello World","timestamp":"2022-Feb-17 14:41:06"}
+{"level":"error","message":{"params":{"name":20,"userId":10}},"timestamp":"2022-Feb-17 14:41:13"}
+{"level":"info","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 14:41:35"}
+{"level":"error","message":"page not found","name":20,"timestamp":"2022-Feb-17 14:41:38","userId":10}
+{"level":"info","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 14:42:19"}
+{"level":"error","message":"page not found","name":20,"timestamp":"2022-Feb-17 14:42:22","userId":10}
+{"level":"info","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 14:44:07"}
+{"level":"error","message":"{\"userId\":10,\"name\":20}","timestamp":"2022-Feb-17 14:44:11"}
+{"level":"info","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 14:46:52"}
+{"level":"info","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 14:47:01"}
+{"level":"info","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 14:47:46"}
+{"level":"info","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 14:48:02"}
+{"level":"info","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 14:48:06"}
+{"level":"info","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 14:48:14"}
+{"level":"info","message":"Server started and running on http://localhost:3000","t":"10","timestamp":"2022-Feb-17 14:48:20"}
+{"level":"error","message":"Server started and running on http://localhost:3000","t":"10","timestamp":"2022-Feb-17 14:48:44"}
+{"level":"error","message":"Server started and running on http://localhost:3000","obj":"test","timestamp":"2022-Feb-17 14:50:19"}
+{"level":"error","message":"Server started and running on http://localhost:3000","obj":"test","timestamp":"2022-Feb-17 14:51:09"}
+{"level":"error","message":"page not found","obj":{"name":20,"userId":10},"timestamp":"2022-Feb-17 14:51:14"}
+{"level":"error","message":"Server started and running on http://localhost:3000","obj":"test","timestamp":"2022-Feb-17 14:51:33"}
+{"level":"error","message":"page not found","obj":"{\"userId\":10,\"name\":20}","timestamp":"2022-Feb-17 14:51:35"}
+{"level":"error","message":"Server started and running on http://localhost:3000","obj":"test","timestamp":"2022-Feb-17 14:51:47"}
+{"level":"error","message":"page not found","obj":"{\"userId\":10,\"name\":20}","timestamp":"2022-Feb-17 14:51:54"}
+{"level":"error","message":"Server started and running on http://localhost:3000","obj":"test","timestamp":"2022-Feb-17 14:52:32"}
+{"level":"error","message":"Server started and running on http://localhost:3000","obj":"test","timestamp":"2022-Feb-17 14:52:42"}
+{"level":"error","message":"Server started and running on http://localhost:3000","obj":"test","timestamp":"2022-Feb-17 14:52:52"}
+{"level":"error","message":"page not found","timestamp":"2022-Feb-17 14:52:55"}
+{"level":"error","message":"Server started and running on http://localhost:3000","obj":"test","timestamp":"2022-Feb-17 14:53:03"}
+{"level":"error","message":"page not found","obj":"{\"userId\":10,\"name\":20}","timestamp":"2022-Feb-17 14:53:07"}
+{"level":"error","message":"Server started and running on http://localhost:3000","obj":"test","timestamp":"2022-Feb-17 14:54:04"}
+{"level":"error","message":"page not found","obj":"{\"userId\":10,\"name\":20}","timestamp":"2022-Feb-17 14:55:13"}
+{"level":"error","message":"Server started and running on http://localhost:3000","obj":"test","timestamp":"2022-Feb-17 14:55:34"}
+{"level":"error","message":"page not found","obj":"{\"userId\":10,\"name\":20}","timestamp":"2022-Feb-17 14:55:39"}
+{"level":"error","message":"page not found","obj":"{\"userId\":10,\"name\":20}","timestamp":"2022-Feb-17 14:55:40"}
+{"level":"error","message":"page not found","obj":"{\"userId\":10,\"name\":20}","timestamp":"2022-Feb-17 14:55:41"}
+{"level":"error","message":"page not found","obj":"{\"userId\":10,\"name\":20}","timestamp":"2022-Feb-17 14:55:47"}
+{"level":"error","message":"Server started and running on http://localhost:3000","obj":"test","timestamp":"2022-Feb-17 14:56:13"}
+{"level":"error","message":"Server started and running on http://localhost:3000","obj":"test","timestamp":"2022-Feb-17 14:56:44"}
+{"level":"error","message":"page not found","obj":"{\"userId\":10,\"name\":20}","timestamp":"2022-Feb-17 14:56:47"}
+{"level":"error","message":"page not found","obj":"{\"userId\":10,\"name\":20}","timestamp":"2022-Feb-17 14:57:07"}
+{"level":"error","message":"Server started and running on http://localhost:3000","meta":"test","timestamp":"2022-Feb-17 14:57:55"}
+{"level":"error","message":"Server started and running on http://localhost:3000","meta":"test","timestamp":"2022-Feb-17 14:58:05"}
+{"level":"error","message":"page not found","obj":"{\"userId\":10,\"name\":20}","timestamp":"2022-Feb-17 14:58:14"}
+{"level":"error","message":"Server started and running on http://localhost:3000","meta":"test","timestamp":"2022-Feb-17 14:59:33"}
+{"level":"error","message":"page not found","obj":"{\"userId\":10,\"name\":20}","timestamp":"2022-Feb-17 14:59:41"}
+{"level":"error","message":"Server started and running on http://localhost:3000","meta":"test","timestamp":"2022-Feb-17 15:00:03"}
+{"level":"error","message":"page not found","obj":"{\"userId\":10,\"name\":20}","timestamp":"2022-Feb-17 15:00:32"}
+{"level":"error","message":"Server started and running on http://localhost:3000","meta":"test","timestamp":"2022-Feb-17 15:01:12"}
+{"level":"error","message":"page not found","meta":"teste","obj":"{\"userId\":10,\"name\":20}","timestamp":"2022-Feb-17 15:01:14"}
+{"level":"error","message":"Server started and running on http://localhost:3000","meta":"test","timestamp":"2022-Feb-17 15:02:18"}
+{"level":"error","message":"page not found","meta":"teste","obj":"{\"userId\":10,\"name\":20}","timestamp":"2022-Feb-17 15:02:32"}
+{"level":"error","message":"Server started and running on http://localhost:3000","meta":"test","timestamp":"2022-Feb-17 15:02:51"}
+{"level":"error","message":"page not found","meta":"teste","obj":"{\"userId\":10,\"name\":20}","timestamp":"2022-Feb-17 15:03:15"}
+{"level":"error","message":"Server started and running on http://localhost:3000","meta":"test","timestamp":"2022-Feb-17 15:03:43"}
+{"level":"error","message":"page not found","meta":"teste","obj":{"name":20,"userId":10},"timestamp":"2022-Feb-17 15:03:49"}
+{"level":"error","message":"Server started and running on http://localhost:3000","meta":"test","timestamp":"2022-Feb-17 15:04:19"}
+{"level":"error","message":"page not found","params":{"name":20,"userId":10},"timestamp":"2022-Feb-17 15:04:24"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:04:52"}
+{"level":"error","message":"page not found","params":{"name":20,"userId":10},"timestamp":"2022-Feb-17 15:04:56"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:05:11"}
+{"level":"error","message":{"params":{"name":20,"userId":10}},"timestamp":"2022-Feb-17 15:05:13"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:05:43"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:06:09"}
+{"level":"info","message":"Server Sent a Hello World","timestamp":"2022-Feb-17 15:06:12","userId":10}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:11:04"}
+{"level":"error","message":"/user","req":{"_consuming":false,"_dumped":false,"_events":{},"_eventsCount":1,"_parsedUrl":{"_raw":"/calc","auth":null,"hash":null,"host":null,"hostname":null,"href":"/calc","path":"/calc","pathname":"/calc","port":null,"protocol":null,"query":null,"search":null,"slashes":null},"_readableState":{"autoDestroy":true,"awaitDrainWriters":null,"buffer":{"head":null,"length":0,"tail":null},"closeEmitted":false,"closed":false,"constructed":true,"dataEmitted":false,"decoder":null,"defaultEncoding":"utf8","destroyed":false,"emitClose":true,"emittedReadable":false,"encoding":null,"endEmitted":false,"ended":false,"errorEmitted":false,"errored":null,"flowing":null,"highWaterMark":16384,"length":0,"multiAwaitDrain":false,"needReadable":false,"objectMode":false,"pipes":[],"readableListening":false,"reading":false,"readingMore":true,"resumeScheduled":false,"sync":true},"aborted":false,"baseUrl":"","client":{"_events":{"close":[null,null],"end":[null,null]},"_eventsCount":8,"_hadError":false,"_host":null,"_httpMessage":{"_closed":false,"_contentLength":33,"_defaultKeepAlive":true,"_events":{},"_eventsCount":1,"_expect_continue":false,"_hasBody":true,"_header":"HTTP/1.1 500 Internal Server Error\r\nX-Powered-By: Express\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 33\r\nETag: W/\"21-IZIRoUMDJsKJq/wy2Dk6eWHMaBE\"\r\nDate: Thu, 17 Feb 2022 18:11:13 GMT\r\nConnection: keep-alive\r\nKeep-Alive: timeout=5\r\n\r\n","_headerSent":true,"_keepAliveTimeout":5000,"_last":false,"_removedConnection":false,"_removedContLen":false,"_removedTE":false,"_sent100":false,"_trailer":"","chunkedEncoding":false,"destroyed":false,"finished":true,"locals":{},"maxRequestsOnConnectionReached":false,"outputData":[],"outputSize":0,"req":"[Circular]","sendDate":true,"shouldKeepAlive":true,"socket":"[Circular]","statusCode":500,"statusMessage":"Internal Server Error","useChunkedEncodingByDefault":true,"writable":true},"_parent":null,"_paused":false,"_pendingData":null,"_pendingEncoding":"","_readableState":{"autoDestroy":true,"awaitDrainWriters":null,"buffer":{"head":null,"length":0,"tail":null},"closeEmitted":false,"closed":false,"constructed":true,"dataEmitted":false,"decoder":null,"defaultEncoding":"utf8","destroyed":false,"emitClose":false,"emittedReadable":false,"encoding":null,"endEmitted":false,"ended":false,"errorEmitted":false,"errored":null,"flowing":true,"highWaterMark":16384,"length":0,"multiAwaitDrain":false,"needReadable":true,"objectMode":false,"pipes":[],"readableListening":false,"reading":true,"readingMore":false,"resumeScheduled":false,"sync":false},"_server":{"_connectionKey":"6::::3000","_connections":2,"_events":{},"_eventsCount":2,"_handle":{"reading":false},"_unref":false,"_usingWorkers":false,"_workers":[],"allowHalfOpen":true,"headersTimeout":60000,"httpAllowHalfOpen":false,"keepAliveTimeout":5000,"maxHeadersCount":null,"maxRequestsPerSocket":0,"pauseOnConnect":false,"requestTimeout":0,"timeout":0},"_sockname":null,"_writableState":{"afterWriteTickInfo":{"count":1,"state":"[Circular]","stream":"[Circular]"},"allBuffers":true,"allNoop":true,"autoDestroy":true,"bufferProcessing":false,"buffered":[],"bufferedIndex":0,"closeEmitted":false,"closed":false,"constructed":true,"corked":0,"decodeStrings":false,"defaultEncoding":"utf8","destroyed":false,"emitClose":false,"ended":false,"ending":false,"errorEmitted":false,"errored":null,"finalCalled":false,"finished":false,"highWaterMark":16384,"length":0,"needDrain":false,"objectMode":false,"pendingcb":1,"prefinished":false,"sync":false,"writecb":null,"writelen":0,"writing":false},"allowHalfOpen":true,"connecting":false,"parser":{"_consumed":true,"_headers":[],"_url":"","incoming":"[Circular]","maxHeaderPairs":2000,"outgoing":null,"socket":"[Circular]"},"server":{"_connectionKey":"6::::3000","_connections":2,"_events":{},"_eventsCount":2,"_handle":{"reading":false},"_unref":false,"_usingWorkers":false,"_workers":[],"allowHalfOpen":true,"headersTimeout":60000,"httpAllowHalfOpen":false,"keepAliveTimeout":5000,"maxHeadersCount":null,"maxRequestsPerSocket":0,"pauseOnConnect":false,"requestTimeout":0,"timeout":0}},"complete":false,"httpVersion":"1.1","httpVersionMajor":1,"httpVersionMinor":1,"method":"GET","originalUrl":"/calc","params":{},"query":{},"rawHeaders":["Host","localhost:3000","Connection","keep-alive","sec-ch-ua","\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"98\", \"Google Chrome\";v=\"98\"","sec-ch-ua-mobile","?0","sec-ch-ua-platform","\"Windows\"","Upgrade-Insecure-Requests","1","User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36","Accept","text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9","Purpose","prefetch","Sec-Fetch-Site","none","Sec-Fetch-Mode","navigate","Sec-Fetch-User","?1","Sec-Fetch-Dest","document","Accept-Encoding","gzip, deflate, br","Accept-Language","pt-PT,pt;q=0.9,en-US;q=0.8,en;q=0.7"],"rawTrailers":[],"res":{"_closed":false,"_contentLength":33,"_defaultKeepAlive":true,"_events":{},"_eventsCount":1,"_expect_continue":false,"_hasBody":true,"_header":"HTTP/1.1 500 Internal Server Error\r\nX-Powered-By: Express\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 33\r\nETag: W/\"21-IZIRoUMDJsKJq/wy2Dk6eWHMaBE\"\r\nDate: Thu, 17 Feb 2022 18:11:13 GMT\r\nConnection: keep-alive\r\nKeep-Alive: timeout=5\r\n\r\n","_headerSent":true,"_keepAliveTimeout":5000,"_last":false,"_removedConnection":false,"_removedContLen":false,"_removedTE":false,"_sent100":false,"_trailer":"","chunkedEncoding":false,"destroyed":false,"finished":true,"locals":{},"maxRequestsOnConnectionReached":false,"outputData":[],"outputSize":0,"req":"[Circular]","sendDate":true,"shouldKeepAlive":true,"socket":{"_events":{"close":[null,null],"end":[null,null]},"_eventsCount":8,"_hadError":false,"_host":null,"_httpMessage":"[Circular]","_parent":null,"_paused":false,"_pendingData":null,"_pendingEncoding":"","_readableState":{"autoDestroy":true,"awaitDrainWriters":null,"buffer":{"head":null,"length":0,"tail":null},"closeEmitted":false,"closed":false,"constructed":true,"dataEmitted":false,"decoder":null,"defaultEncoding":"utf8","destroyed":false,"emitClose":false,"emittedReadable":false,"encoding":null,"endEmitted":false,"ended":false,"errorEmitted":false,"errored":null,"flowing":true,"highWaterMark":16384,"length":0,"multiAwaitDrain":false,"needReadable":true,"objectMode":false,"pipes":[],"readableListening":false,"reading":true,"readingMore":false,"resumeScheduled":false,"sync":false},"_server":{"_connectionKey":"6::::3000","_connections":2,"_events":{},"_eventsCount":2,"_handle":{"reading":false},"_unref":false,"_usingWorkers":false,"_workers":[],"allowHalfOpen":true,"headersTimeout":60000,"httpAllowHalfOpen":false,"keepAliveTimeout":5000,"maxHeadersCount":null,"maxRequestsPerSocket":0,"pauseOnConnect":false,"requestTimeout":0,"timeout":0},"_sockname":null,"_writableState":{"afterWriteTickInfo":{"count":1,"state":"[Circular]","stream":"[Circular]"},"allBuffers":true,"allNoop":true,"autoDestroy":true,"bufferProcessing":false,"buffered":[],"bufferedIndex":0,"closeEmitted":false,"closed":false,"constructed":true,"corked":0,"decodeStrings":false,"defaultEncoding":"utf8","destroyed":false,"emitClose":false,"ended":false,"ending":false,"errorEmitted":false,"errored":null,"finalCalled":false,"finished":false,"highWaterMark":16384,"length":0,"needDrain":false,"objectMode":false,"pendingcb":1,"prefinished":false,"sync":false,"writecb":null,"writelen":0,"writing":false},"allowHalfOpen":true,"connecting":false,"parser":{"_consumed":true,"_headers":[],"_url":"","incoming":"[Circular]","maxHeaderPairs":2000,"outgoing":null,"socket":"[Circular]"},"server":{"_connectionKey":"6::::3000","_connections":2,"_events":{},"_eventsCount":2,"_handle":{"reading":false},"_unref":false,"_usingWorkers":false,"_workers":[],"allowHalfOpen":true,"headersTimeout":60000,"httpAllowHalfOpen":false,"keepAliveTimeout":5000,"maxHeadersCount":null,"maxRequestsPerSocket":0,"pauseOnConnect":false,"requestTimeout":0,"timeout":0}},"statusCode":500,"statusMessage":"Internal Server Error","useChunkedEncodingByDefault":true,"writable":true},"route":{"methods":{"get":true},"path":"/calc","stack":[{"keys":[],"method":"get","name":"<anonymous>","regexp":{"fast_slash":false,"fast_star":false}}]},"socket":{"_events":{"close":[null,null],"end":[null,null]},"_eventsCount":8,"_hadError":false,"_host":null,"_httpMessage":{"_closed":false,"_contentLength":33,"_defaultKeepAlive":true,"_events":{},"_eventsCount":1,"_expect_continue":false,"_hasBody":true,"_header":"HTTP/1.1 500 Internal Server Error\r\nX-Powered-By: Express\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 33\r\nETag: W/\"21-IZIRoUMDJsKJq/wy2Dk6eWHMaBE\"\r\nDate: Thu, 17 Feb 2022 18:11:13 GMT\r\nConnection: keep-alive\r\nKeep-Alive: timeout=5\r\n\r\n","_headerSent":true,"_keepAliveTimeout":5000,"_last":false,"_removedConnection":false,"_removedContLen":false,"_removedTE":false,"_sent100":false,"_trailer":"","chunkedEncoding":false,"destroyed":false,"finished":true,"locals":{},"maxRequestsOnConnectionReached":false,"outputData":[],"outputSize":0,"req":"[Circular]","sendDate":true,"shouldKeepAlive":true,"socket":"[Circular]","statusCode":500,"statusMessage":"Internal Server Error","useChunkedEncodingByDefault":true,"writable":true},"_parent":null,"_paused":false,"_pendingData":null,"_pendingEncoding":"","_readableState":{"autoDestroy":true,"awaitDrainWriters":null,"buffer":{"head":null,"length":0,"tail":null},"closeEmitted":false,"closed":false,"constructed":true,"dataEmitted":false,"decoder":null,"defaultEncoding":"utf8","destroyed":false,"emitClose":false,"emittedReadable":false,"encoding":null,"endEmitted":false,"ended":false,"errorEmitted":false,"errored":null,"flowing":true,"highWaterMark":16384,"length":0,"multiAwaitDrain":false,"needReadable":true,"objectMode":false,"pipes":[],"readableListening":false,"reading":true,"readingMore":false,"resumeScheduled":false,"sync":false},"_server":{"_connectionKey":"6::::3000","_connections":2,"_events":{},"_eventsCount":2,"_handle":{"reading":false},"_unref":false,"_usingWorkers":false,"_workers":[],"allowHalfOpen":true,"headersTimeout":60000,"httpAllowHalfOpen":false,"keepAliveTimeout":5000,"maxHeadersCount":null,"maxRequestsPerSocket":0,"pauseOnConnect":false,"requestTimeout":0,"timeout":0},"_sockname":null,"_writableState":{"afterWriteTickInfo":{"count":1,"state":"[Circular]","stream":"[Circular]"},"allBuffers":true,"allNoop":true,"autoDestroy":true,"bufferProcessing":false,"buffered":[],"bufferedIndex":0,"closeEmitted":false,"closed":false,"constructed":true,"corked":0,"decodeStrings":false,"defaultEncoding":"utf8","destroyed":false,"emitClose":false,"ended":false,"ending":false,"errorEmitted":false,"errored":null,"finalCalled":false,"finished":false,"highWaterMark":16384,"length":0,"needDrain":false,"objectMode":false,"pendingcb":1,"prefinished":false,"sync":false,"writecb":null,"writelen":0,"writing":false},"allowHalfOpen":true,"connecting":false,"parser":{"_consumed":true,"_headers":[],"_url":"","incoming":"[Circular]","maxHeaderPairs":2000,"outgoing":null,"socket":"[Circular]"},"server":{"_connectionKey":"6::::3000","_connections":2,"_events":{},"_eventsCount":2,"_handle":{"reading":false},"_unref":false,"_usingWorkers":false,"_workers":[],"allowHalfOpen":true,"headersTimeout":60000,"httpAllowHalfOpen":false,"keepAliveTimeout":5000,"maxHeadersCount":null,"maxRequestsPerSocket":0,"pauseOnConnect":false,"requestTimeout":0,"timeout":0}},"statusCode":null,"statusMessage":null,"upgrade":false,"url":"/calc"},"timestamp":"2022-Feb-17 15:11:13"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:11:54"}
+{"level":"error","message":"/user","parasm":"GET","timestamp":"2022-Feb-17 15:11:58"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:13:15"}
+{"level":"error","message":"ERROR 500","method":"GET","route":"/calc","timestamp":"2022-Feb-17 15:13:22"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:13:30"}
+{"level":"error","message":"ERROR 500","method":"GET","path":"/calc","timestamp":"2022-Feb-17 15:13:42"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:16:58"}
+{"level":"error","message":"ERROR 500","method":"GET","path":"/calc","timestamp":"2022-Feb-17 15:17:04"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:17:40"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:17:45"}
+{"level":"error","message":"ERROR 500","method":"GET","path":"/calc","timestamp":"2022-Feb-17 15:17:49"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:21:08"}
+{"ip":"::1","level":"error","message":"ERROR 500","method":"GET","path":"/calc","timestamp":"2022-Feb-17 15:21:11"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:23:50"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:24:16"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:24:26"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:25:06"}
+{"ip":"::1","level":"error","message":"ERROR 500","method":"GET","path":"/calc","timestamp":"2022-Feb-17 15:25:11"}
+{"ip":"::1","level":"error","message":"ERROR 500","method":"GET","path":"/calc","timestamp":"2022-Feb-17 15:25:35"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:25:43"}
+{"ip":"::1","level":"error","message":"ERROR 500","method":"GET","path":"/calc","responseTime":"teste","timestamp":"2022-Feb-17 15:25:46"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:27:40"}
+{"ip":"::1","level":"error","message":"ERROR 500","method":"GET","path":"/calc","timestamp":"2022-Feb-17 15:27:46"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:28:01"}
+{"ip":"::1","level":"error","message":"ERROR 500","method":"GET","path":"/calc","responseTime":"t function responseTime (req, res, next) {\n    var startAt = process.hrtime()\n\n    onHeaders(res, function onHeaders () {\n      var diff = process.hrtime(startAt)\n      var time = diff[0] * 1e3 + diff[1] * 1e-6\n\n      fn(req, res, time)\n    })\n\n    next()\n  }","timestamp":"2022-Feb-17 15:28:03"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:28:29"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:29:18"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:30:30"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:30:56"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:31:03"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:32:16"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:32:30"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:32:37"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:32:57"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:33:09"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:33:19"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:33:29"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:33:33"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:33:40"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:33:46"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:33:50"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:33:58"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:34:06"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:36:38"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:36:54"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:37:46"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:38:30"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:38:40"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:38:53"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:39:09"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:39:55"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:40:34"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:40:43"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:42:46"}
+{"duration":"1.720ms","ip":"::1","level":"error","message":"ERROR 500","method":"GET","path":"/calc","timestamp":"2022-Feb-17 15:42:50"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:43:32"}
+{"duration":"1.142ms","ip":"::1","level":"error","message":"ERROR 500","method":"GET","path":"/calc","timestamp":"2022-Feb-17 15:43:36"}
+{"duration":"0.432ms","ip":"::1","level":"error","message":"ERROR 500","method":"GET","path":"/calc","timestamp":"2022-Feb-17 15:43:39"}
+{"duration":"0.462ms","ip":"::1","level":"error","message":"ERROR 500","method":"GET","path":"/calc","timestamp":"2022-Feb-17 15:43:40"}
+{"duration":"0.423ms","ip":"::1","level":"error","message":"ERROR 500","method":"GET","path":"/calc","timestamp":"2022-Feb-17 15:43:41"}
+{"duration":"0.572ms","ip":"::1","level":"error","message":"ERROR 500","method":"GET","path":"/calc","timestamp":"2022-Feb-17 15:43:41"}
+{"duration":"0.720ms","ip":"::1","level":"error","message":"ERROR 500","method":"GET","path":"/calc","timestamp":"2022-Feb-17 15:43:41"}
+{"duration":"0.508ms","ip":"::1","level":"error","message":"ERROR 500","method":"GET","path":"/calc","timestamp":"2022-Feb-17 15:43:42"}
+{"duration":"0.214ms","ip":"::1","level":"error","message":"ERROR 500","method":"GET","path":"/calc","timestamp":"2022-Feb-17 15:43:42"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:43:51"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:44:15"}
+{"duration":"1.135ms","ip":"::1","level":"error","message":"ERROR 404","method":"GET","path":"/hello","timestamp":"2022-Feb-17 15:44:21"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:46:24"}
+{"duration":"1.047ms","ip":"::1","level":"error","message":"ERROR 404","method":"GET","path":"/hello","timestamp":"2022-Feb-17 15:46:28"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:47:18"}
+{"duration":"1.011ms","ip":"::1","level":"error","message":"ERROR 404","method":"GET","path":"/hello","timestamp":"2022-Feb-17 15:47:22"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:47:35"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:48:03"}
+{"duration":"1.063ms","ip":"::1","level":"error","message":"ERROR 404","method":"GET","path":"/hello","timestamp":"2022-Feb-17 15:48:07"}
+{"duration":"0.822ms","ip":"::1","level":"error","message":"ERROR 404","method":"GET","path":"/hello","timestamp":"2022-Feb-17 15:48:08"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:48:21"}
+{"level":"error","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:48:25"}
+{"ip":"::1","level":"error","message":"ERROR 500","method":"GET","path":"/hello","timestamp":"2022-Feb-17 15:48:28"}
+{"ip":"::1","level":"error","message":"ERROR 500","method":"GET","path":"/hello","timestamp":"2022-Feb-17 15:48:29"}
+{"ip":"::1","level":"error","message":"ERROR 500","method":"GET","path":"/hello","timestamp":"2022-Feb-17 15:48:30"}
+{"ip":"::1","level":"error","message":"ERROR 500","method":"GET","path":"/hello","timestamp":"2022-Feb-17 15:48:30"}
+{"level":"info","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:48:44"}
+{"ip":"::1","level":"error","message":"ERROR 500","method":"GET","path":"/hello","timestamp":"2022-Feb-17 15:48:51"}
+{"level":"info","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:49:52"}
+{"duration":"1.014ms","ip":"::1","level":"error","message":"ERROR 404","method":"GET","path":"/hello","timestamp":"2022-Feb-17 15:49:54"}
+{"level":"info","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:49:59"}
+{"duration":"1.169ms","ip":"::1","level":"error","message":"ERROR 404","method":"GET","path":"/hello","timestamp":"2022-Feb-17 15:50:01"}
+{"duration":"0.287ms","ip":"::1","level":"error","message":"ERROR 404","method":"GET","path":"/hello","timestamp":"2022-Feb-17 15:52:31"}
+{"duration":"0.967ms","ip":"::1","level":"error","message":"ERROR 500","method":"GET","path":"/calc","timestamp":"2022-Feb-17 15:52:36"}
+{"level":"info","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:52:52"}
+{"duration":"1.457ms","ip":"::1","level":"error","message":"ERROR 404","method":"GET","path":"/hello","timestamp":"2022-Feb-17 15:52:57"}
+{"duration":"0.312ms","ip":"::1","level":"error","message":"ERROR 404","method":"GET","path":"/hello","timestamp":"2022-Feb-17 15:53:02"}
+{"level":"info","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 15:53:05"}
+{"duration":"1.179ms","ip":"::1","level":"error","message":"ERROR 404","method":"GET","path":"/hello","timestamp":"2022-Feb-17 16:19:56"}
+{"level":"info","message":"Server started and running on http://localhost:3000","timestamp":"2022-Feb-17 16:22:43"}
+{"ip":"::1","level":"error","message":"ERROR 500","method":"GET","path":"/hello","timestamp":"2022-Feb-17 16:22:47"}

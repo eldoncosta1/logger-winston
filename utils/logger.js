@@ -5,19 +5,14 @@ const { combine, json, label, timestamp, printf } = format;
 require('winston-mongodb');
 
 const logConfiguration = {
+  format: format.combine(
+    format.timestamp(),
+    // format.printf(info => `[${info.timestamp}] - ${info.level} - ${info.obj}`),
+    format.json(),
+  ),
   'transports': [
     new transports.Console({
       level: 'error' | 'warn',
-      format: combine(
-        // label({
-        //   label: `🚩 level`
-        // }),
-        timestamp({
-          format: 'YYYY-MMM-DD HH:mm:ss'
-        }),
-        printf(info => `${info.level}: ${info.label}: ${info.timestamp}: ${info.message}`),
-        json()
-      )
     }),
     new transports.File({
       filename: 'logs/server.log',
@@ -41,11 +36,16 @@ const logConfiguration = {
       collection: 'event_logger',
       format: format.combine(
         format.timestamp(),
-        // convert logs to a json format
-        format.json()
-      )
-    })
-  ]
+        format.printf(info => `[${info.timestamp}] - ${info.level} - ${info.meta}`),
+        format.json(),
+        format.metadata()
+      ),
+    }),
+    // new transports.Http({
+    //   level: 'error',
+    //   format: format.json()
+    // })
+  ],
 };
 
 module.exports = createLogger(logConfiguration);
